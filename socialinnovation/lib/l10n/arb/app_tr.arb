@@ -1,7 +1,5 @@
 {
     "@@locale": "tr",
     "counterAppBarTitle": "Sayaç",
-    "@counterAppBarTitle": {
-        "description": "Sayaç Gösterimi"
-    }
+    "counterAppBarDescription": "Sayaç Gösterimi"
 }

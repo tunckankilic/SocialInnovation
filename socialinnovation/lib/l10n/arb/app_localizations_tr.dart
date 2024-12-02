@@ -8,4 +8,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get counterAppBarTitle => 'Sayaç';
+
+  @override
+  String get counterAppBarDescription => 'Sayaç Gösterimi';
 }

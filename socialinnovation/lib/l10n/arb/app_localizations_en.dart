@@ -8,4 +8,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get counterAppBarTitle => 'Counter';
+
+  @override
+  String get counterAppBarDescription => 'Text shown in the AppBar of the Counter Page';
 }
